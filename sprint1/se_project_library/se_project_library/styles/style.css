@@ -191,6 +191,8 @@
 
 .person_name_burbidge {
   /* Use correct values of top/right/bottom/left properties to position the element */
+  top: 96px;
+  right: 125px;
 }
 
 .person_name_cannon {
