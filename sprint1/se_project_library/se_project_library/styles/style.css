@@ -197,6 +197,8 @@
 
 .person_name_cannon {
   /* Use correct values of top/right/bottom/left properties to position the element */
+  bottom: 18px;
+  right: 216px;
 }
 
 .person_name_mitchell {
