@@ -263,6 +263,7 @@
   flex-wrap: wrap;
   gap: 40px;
   padding-left: 0%;
+  justify-content: center;
 }
 
 .card {
@@ -273,6 +274,7 @@
   height: 420px;
   width: 360px;
   list-style-type: none;
+  
 }
 
 .card__content {
