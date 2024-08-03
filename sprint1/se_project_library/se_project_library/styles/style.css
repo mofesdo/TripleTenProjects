@@ -259,6 +259,10 @@
 .staff__cards{
   max-width: 760px;
   margin-top: 68px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding-left: 0%;
 }
 
 .card {
@@ -268,7 +272,7 @@
   box-sizing: border-box;
   height: 420px;
   width: 360px;
-  display: flex;
+  list-style-type: none;
 }
 
 .card__content {
@@ -296,6 +300,7 @@
   font-size: 14px;
   line-height: 20px;
   color: #838383;
+  margin-top: auto;
 }
 
 .membership {
